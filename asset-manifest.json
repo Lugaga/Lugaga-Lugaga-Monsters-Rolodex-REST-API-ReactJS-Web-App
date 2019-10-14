@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Lugaga-Monsters-Rolodex-REST-API-ReactJS-Web-App/static/css/main.d27869de.chunk.css",
+    "main.js": "/Lugaga-Monsters-Rolodex-REST-API-ReactJS-Web-App/static/js/main.bf100482.chunk.js",
+    "main.js.map": "/Lugaga-Monsters-Rolodex-REST-API-ReactJS-Web-App/static/js/main.bf100482.chunk.js.map",
+    "runtime-main.js": "/Lugaga-Monsters-Rolodex-REST-API-ReactJS-Web-App/static/js/runtime-main.29ed593f.js",
+    "runtime-main.js.map": "/Lugaga-Monsters-Rolodex-REST-API-ReactJS-Web-App/static/js/runtime-main.29ed593f.js.map",
+    "static/js/2.5075ebff.chunk.js": "/Lugaga-Monsters-Rolodex-REST-API-ReactJS-Web-App/static/js/2.5075ebff.chunk.js",
+    "static/js/2.5075ebff.chunk.js.map": "/Lugaga-Monsters-Rolodex-REST-API-ReactJS-Web-App/static/js/2.5075ebff.chunk.js.map",
+    "index.html": "/Lugaga-Monsters-Rolodex-REST-API-ReactJS-Web-App/index.html",
+    "precache-manifest.1f2cd9e0be70743ce314f68dcd50174b.js": "/Lugaga-Monsters-Rolodex-REST-API-ReactJS-Web-App/precache-manifest.1f2cd9e0be70743ce314f68dcd50174b.js",
+    "service-worker.js": "/Lugaga-Monsters-Rolodex-REST-API-ReactJS-Web-App/service-worker.js",
+    "static/css/main.d27869de.chunk.css.map": "/Lugaga-Monsters-Rolodex-REST-API-ReactJS-Web-App/static/css/main.d27869de.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.29ed593f.js",
+    "static/js/2.5075ebff.chunk.js",
+    "static/css/main.d27869de.chunk.css",
+    "static/js/main.bf100482.chunk.js"
+  ]
+}
