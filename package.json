@@ -2,7 +2,7 @@
   "name": "monsters-rolodex",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Lugaga.git/Lugaga-Monsters-Rolodex-REST-API-ReactJS-Web-App",
+  "homepage": "https://Lugaga.gitub.io/Lugaga-Monsters-Rolodex-REST-API-ReactJS-Web-App",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.10.2",
